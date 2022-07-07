@@ -15,5 +15,5 @@
 
 > New Topics
 
-1. Structure
+1. [Structure](https://github.com/aninarafath6/plus_two-workouts/blob/main/topics/structure.cpp)
 
