@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
 
+
     cout << "choose your choice: \n1:rectangle\n2:circle\n3:triangle\n";
     int choice;
     float pi = 3.14, area = 0;
