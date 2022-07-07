@@ -5,4 +5,5 @@
 2. check given number is positive or negative or zero.
 3. sum of squares of first N natural numbers.
 4. check number is palindrome or not.
+5. sum of digits.
 
