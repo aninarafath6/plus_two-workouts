@@ -12,7 +12,7 @@
 6. [check number is armStrong or not.](https://github.com/aninarafath6/plus_two-workouts/blob/main/armstrong-numbers.cpp)
 
 >commerce
->1. [average]()
+>1. [average](https://github.com/aninarafath6/plus_two-workouts/blob/main/comerce/average.cpp)
 
 > New Topics
 
