@@ -1,8 +1,8 @@
 # +2-workouts
 ###### plus two program records
 
->computer scince
-> Records
+> computer scince
+ > Records
 
 1. [find area of rectangle, circle and triangle.](https://github.com/aninarafath6/plus_two-workouts/blob/main/area.cpp)
 2. [check given number is positive or negative or zero.](https://github.com/aninarafath6/plus_two-workouts/blob/main/positve-or-negative.cpp)
